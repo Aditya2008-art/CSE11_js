@@ -15,7 +15,7 @@ t.style.color="green";
 const t2= document.querySelectorAll("ul li");
 for(x in t2)
 {
-    t2[x].style.backgroundColor="green";
+    t2[x].style.backgroundColor="pink";
     t2[x].style.color="blue";
-    t2[x].style.margin="10px";  
+    t2[x].style.margin="10px"; 
 }
