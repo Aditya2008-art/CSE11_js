@@ -1,0 +1,14 @@
+ body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+ }
+#calres {
+    text-align: center ;
+  border: 2px solid brown;
+  border-radius: 20px;
+  background-color: rgb(240, 144, 144);
+  padding: 20px;
+}
